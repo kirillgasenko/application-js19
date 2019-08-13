@@ -1,0 +1,41 @@
+body {
+    padding-top: 50px;
+}
+
+.main-content {
+    padding: 40px 15px;
+    display: flex;
+    flex-direction: column;
+}
+
+.input{
+    height: 40px;
+    width: 40%;
+    padding: 0 10px;
+    margin-bottom: 10px;
+}
+h1{
+    text-align: center;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.btn_form{
+    background: lightblue;
+    border: none;
+    width: 40%;
+    height: 40px;
+}
+.header_style{
+    background: #dbb879;
+}
+.header_style a{
+    color: black;
+}
+.navbar-nav {
+    float: right;
+    margin: 0;
+}
